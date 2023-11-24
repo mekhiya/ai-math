@@ -36,4 +36,12 @@ vedtor can be written a 1 x n - one row and n column - example - 1x 3 -  [1,4,5]
 # f(x,y) = 1/4 x² + 1/4 y²
 ![image](https://github.com/mekhiya/ai-math/assets/8952786/d0cd517b-f63d-49b9-9b75-fbd9e7bd330e)
 
+### Contour Plots | Multivariable calculus
+![contour-plot-slice](https://github.com/mekhiya/ai-math/assets/8952786/039ed528-3997-4013-9d30-160b147bd1cc)
+![image](https://github.com/mekhiya/ai-math/assets/8952786/ba896d09-5e60-4257-b5f8-df518b7b0927)
+![image](https://github.com/mekhiya/ai-math/assets/8952786/983e1dc2-f20b-4de2-9c25-7305e3969b96)
+![image](https://github.com/mekhiya/ai-math/assets/8952786/08e3df39-c8db-413d-a4a4-1db31722aab4)
+![image](https://github.com/mekhiya/ai-math/assets/8952786/4db48daa-d350-42f4-b603-a8c83697bcc6)
+
+
 
